@@ -1,0 +1,28 @@
+body{
+    background-color: rgba(214, 214, 214, 0.8);
+}
+a{
+    text-decoration: none;
+}
+.qty{
+    color: black;
+    font-weight: bolder;
+}
+.btn-group{
+    float: right;
+    border: 1px solid black;
+}
+.btn-group label{
+    font-size: 15px;
+}
+.paylogo{
+    height: 38px;
+    width: auto;
+}
+.paylogo img{
+    height: 100%;
+    width: 100%;
+}
+footer{
+    margin-left: 50px;
+}
